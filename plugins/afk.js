@@ -85,3 +85,4 @@ Function({
 module.exports = {
     secondsToHms
 };
+
