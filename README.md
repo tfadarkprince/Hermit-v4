@@ -1,107 +1,89 @@
-# WhatsApp MD User Bot
+#### Quenn-Ziyav WHATSAPP BOT
+Quenn-Ziyav - Simple whatsapp Multi Device whatsapp bot.
 
-A versatile WhatsApp Bot that supports multiple sessions, allowing you to manage more than one bot on the same deployment.
+***
 
-## Important Links
+### SETUP
+1. [![Fork](https://img.shields.io/github/forks/tfadarkprince/Quenn-Ziyav?style=social)](https://github.com/tfadarkprince/Quenn-Ziyav/fork)
+2. Scan the QR or pair and copy it
+    <br>
+<a href='https://hermit-md.adithyan.in.net/' target="_blank"><img alt='SESSION' src='https://img.shields.io/badge/SESSION-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-- [Bot Environment Variables](https://levanter-plugins.vercel.app/env)
-- [FAQ](https://levanter-plugins.vercel.app/faq)
+---
 
-## Setup
+### Privacy and Security
 
-### Deploy on Koyeb
+- Quenn-Ziyav is an **open-source** bot with **encrypted source code**. We value privacy, and the core functionality is protected from tampering.
+- Your session ID, generated via https://hermit-md.adithyan.in.net/session, is **encrypted** with a secret password and stored securely for **24 hours**.  
+- The session data is **only accessible by you**. We cannot decrypt it, ensuring full privacy.
+- We do **not use Pastebin or any other alternatives** for storing session data. All session data is securely stored in a **PostgreSQL database**, which is fully controlled by us, ensuring your data's security and privacy.
+- Once the session is initiated, it is saved on your side in encrypted form, and the bot communicates with the server only for **error reports, updates, and active user counts**.  
+- No personal data or decrypted sessions are shared via the WebSocket connection.
 
-- Open [Deploy](https://qr-hazel-alpha.vercel.app/) to get started with Koyeb.
+---
 
-### Deploy on Render
+#### DEPLOY TO RENDER 
 
-- Open [Deploy](https://qr-hazel-alpha.vercel.app/) to get started with Render.
+1. If You don't have a account in render. Create a account.
+    <br>
+<a href='https://dashboard.render.com/register' target="_blank"><img alt='render' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 
-### Deploy on Panel
+3. Get [DATABASE_URL](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki/DATABASE_URL) and copy it
 
-- Open [Deploy](https://qr-hazel-alpha.vercel.app/) to get started with the Panel.
+4. Get [Render api key](https://dashboard.render.com/u/settings#api-keys)
 
-### Deploy on VPS or PC (Example for Ubuntu)
+2. Now Deploy
+    <br>
+<a href='https://render.com/deploy?repo=https://github.com/A-d-i-t-h-y-a-n/hermit-bot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 
- #### Quick Installation
-    bash <(curl -fsSL http://bit.ly/43JqREw)
- #### Manual Installation
+#### DEPLOY TO KOYEB 
 
-1. **Install Git, ffmpeg, and curl:**
-    ```sh
-    sudo apt -y update && sudo apt -y upgrade
-    sudo apt -y install git ffmpeg curl
-    ```
+1. If You don't have a account in koyeb. Create a account.
+    <br>
+<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
-2. **Install Node.js:**
-    ```sh
-    curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
-    sudo -E bash nodesource_setup.sh
-    sudo apt-get install -y nodejs
-    ```
+3. Create [DATABASE_URL](https://app.koyeb.com/database-services/new) and copy it
 
-3. **Install Yarn:**
-    ```sh
-    sudo npm install -g yarn
-    ```
+4. Get [Koyeb API_KEY](https://app.koyeb.com/settings/api)
 
-4. **Install pm2:**
-    ```sh
-    sudo yarn global add pm2
-    ```
+2. Now Deploy
+    <br>
+<a href='https://hermit-md.adithyan.in.net/koyeb' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
-5. **Clone Repository and Install Packages:**
-    ```sh
-    git clone https://github.com/lyfe00011/levanter botName
-    cd botName
-    yarn install
-    ```
+#### RUN ON VPS/UBUNTU/WINDOWS
 
-6. **Enter Environment Variables:**
-    ```sh
-    echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
-    PREFIX = .
-    STICKER_PACKNAME = LyFE
-    ALWAYS_ONLINE = false
-    RMBG_KEY = null
-    LANGUAG = en
-    WARN_LIMIT = 3
-    FORCE_LOGOUT = false
-    BRAINSHOP = 159501,6pq8dPiYt7PdqHz3
-    MAX_UPLOAD = 200
-    REJECT_CALL = false
-    SUDO = 989876543210
-    TZ = Asia/Kolkata
-    VPS = true
-    AUTO_STATUS_VIEW = true
-    SEND_READ = true
-    AJOIN = true
-    DISABLE_START_MESSAGE = false
-    PERSONAL_MESSAGE = null" > config.env
-    ```
+1. Install NodeJs,ffmpeg
+2. Installation
+   ```
+   npm i -global pm2
+   git clone https://github.com/A-d-i-t-h-y-a-n/hermit-bot.git
+   cd hermit-bot
+   npm install
+   ```
+3. Configuration
+   ```
+   echo "VPS = true
+     SESSION_ID = null
+     AUTH_FILE = session
+     SUDO = null
+     PREFIX = .
+     MODE = private
+     LOG_MSG = true" > config.env
+   ```
+- Start
+  ```
+  npm start
+  ```
+- Stop
+  ```
+  pm2 delete hermit-md
+  ```
+<br>
 
-7. **Edit `config.env` Using Nano (if needed):**
-    - To save, press `Ctrl + O`, then press `Enter`, and to exit, press `Ctrl + X`.
+For help visit [Github wiki](https://github.com/A-d-i-t-h-y-a-n/hermit-bot/wiki)
 
-8. **Start and Stop the Bot:**
-    - To start the bot:
-      ```sh
-      pm2 start . --name botName --attach --time
-      ```
-    - To stop the bot:
-      ```sh
-      pm2 stop botName
-      ```
+***
 
-### Deploy on Replit
+[![Join us on Telegram](https://img.shields.io/badge/Join_Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hermitmd_official)
 
-[![Run on Replit](https://replit.com/badge/github/your-repo-owner/your-repo-name)](https://replit.com/@Nightbot2O/whatsapp-bot-md)
-
-1. Fork the repository.
-2. Edit `config.env`.
-3. Click run.
-
-### Thanks To
-
-- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
-- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
+<a href="https://whatsapp.com/channel/0029Va4OxFAGk1FjrFvTJa1V"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
