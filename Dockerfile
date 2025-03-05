@@ -1,4 +1,4 @@
-FROM quay.io/hermit/hermit-ser:latest
+FROM quay.io/Quenn-Ziyav/Quenn-Ziyav:latest
 
 RUN git clone https://github.com/tfadarkprince/Quenn-Ziyav /root/Quenn-Ziyav
 WORKDIR /root/Quenn-Ziyav/
