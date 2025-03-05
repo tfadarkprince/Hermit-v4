@@ -1,10 +1,10 @@
-#### Quenn-Ziyav WHATSAPP BOT
+#### Hermit-v4 WHATSAPP BOT
 Quenn-Ziyav - Simple whatsapp Multi Device whatsapp bot.
 
 ***
 
 ### SETUP
-1. [![Fork](https://img.shields.io/github/forks/tfadarkprince/Quenn-Ziyav?style=social)](https://github.com/tfadarkprince/Quenn-Ziyav/fork)
+1. [![Fork](https://img.shields.io/github/forks/tfadarkprince/Quenn-Ziyav?style=social)](https://github.com/tfadarkprince/Hermit-v4/fork)
 2. Scan the QR or pair and copy it
     <br>
 <a href='https://hermit-md.adithyan.in.net/' target="_blank"><img alt='SESSION' src='https://img.shields.io/badge/SESSION-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
@@ -13,7 +13,7 @@ Quenn-Ziyav - Simple whatsapp Multi Device whatsapp bot.
 
 ### Privacy and Security
 
-- Quenn-Ziyav is an **open-source** bot with **encrypted source code**. We value privacy, and the core functionality is protected from tampering.
+- Hermit-v4 is an **open-source** bot with **encrypted source code**. We value privacy, and the core functionality is protected from tampering.
 - Your session ID, generated via https://hermit-md.adithyan.in.net/session, is **encrypted** with a secret password and stored securely for **24 hours**.  
 - The session data is **only accessible by you**. We cannot decrypt it, ensuring full privacy.
 - We do **not use Pastebin or any other alternatives** for storing session data. All session data is securely stored in a **PostgreSQL database**, which is fully controlled by us, ensuring your data's security and privacy.
