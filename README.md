@@ -13,6 +13,9 @@ Quenn-Ziyav - Simple whatsapp Multi Device whatsapp bot.
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Hehhermitmd%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20Dark%20prince)
 <p align="center">
 
+## 🌟 `Bot Intro and Features`
+[![XLICON](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%2220250305_080012.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-03-04T02%3A32%3A11.786Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F5276c5dd72594c64%2F20250305_080012.jpg%3FExpires%3D1835749932%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DR-kCo9KdhQeAkw5NoNIItYYn1uP-oRgzk~QRCbHA3KOLBpX8XLOMQ2yp06i4s41HwOExyvjhgzIl5VaC23r1NCW0r1Caaeszj2DhUGh9qXTDEQes3ikICEelvNO5wc7eLjM7ELVoGWe3tU2SjfAt4ZnpiH~wlmzuOVQNy81FPMTOI6adjC6Qkhmd01NkHrUV-pTcWGjbGLB1TIWHSOPMNQAMyWYfz7sSm25Is49fat6NZDMYXUwAvG2TT7~uECaFgABgLT67kNlLD4~vwI-N8vDEiM5aJd~Nmai2k6AkfDeLRKs2PT6IiuTcDXLQLxN0rQ1hEq3TkETOPH2ZF3~Pyw__%22%7D)](https://youtu.be/WcA7GZuaN0A)
+
 ### SETUP
 1. [![Fork](https://img.shields.io/github/forks/tfadarkprince/Hermit-v4?style=social)](https://github.com/tfadarkprince/Hermit-v4/fork)
 2. Scan the QR or pair and copy it
