@@ -1,4 +1,4 @@
-FROM quay.io/Quenn-Ziyav/Quenn-Ziyav:latest
+FROM quay.io/hermit/hermit-ser:latest
 
 WORKDIR /Quenn-Ziyav
 COPY package*.json ./
