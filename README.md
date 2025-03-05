@@ -80,10 +80,10 @@ Quenn-Ziyav - Simple whatsapp Multi Device whatsapp bot.
   ```
 <br>
 
-For help visit [Github wiki](https://github.com/A-d-i-t-h-y-a-n/hermit-bot/wiki)
+For help visit [Github wiki](https://github.com/tfadarkprince/Hermit-v4/wiki)
 
 ***
 
-[![Join us on Telegram](https://img.shields.io/badge/Join_Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hermitmd_official)
+[![Join us on Telegram](https://img.shields.io/badge/Join_Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@luckyserofc)
 
-<a href="https://whatsapp.com/channel/0029Va4OxFAGk1FjrFvTJa1V"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+<a href="[https://whatsapp.com/channel/0029Va4OxFAGk1FjrFvTJa1V](https://whatsapp.com/channel/0029VayY2vu1NCrLQHzmRB2Q)"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
