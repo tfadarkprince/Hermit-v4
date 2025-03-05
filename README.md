@@ -8,7 +8,7 @@ heemit-md - Simple whatsapp Multi Device whatsapp bot.
 
 <br>
 
-#  ᴄᴏ ᴘᴏᴡᴇʀᴇᴅ ʙʏ `Aadhi...?`
+#  ᴄᴏ ᴘᴏᴡᴇʀᴇᴅ ʙʏ `Aadhi....?`
 
 <br>
 
