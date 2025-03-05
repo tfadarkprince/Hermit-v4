@@ -1,5 +1,5 @@
 #### Hermit-v4 WHATSAPP BOT
-Quenn-Ziyav - Simple whatsapp Multi Device whatsapp bot.
+heemit-md - Simple whatsapp Multi Device whatsapp bot.
 
 ***
 
