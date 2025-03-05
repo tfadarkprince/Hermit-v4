@@ -3,15 +3,13 @@ heemit-md - Simple whatsapp Multi Device whatsapp bot.
 
 ***
 
-# `NOTE : 🌿_nallathu cheythal nallathu labhikkum...bhagavane eeshwara🥲💐
+# `NOTE : 🌿_nallathu cheythal nallathu labhikkum...bhagavane eeshwara🥲💐`
 
 
 <br>
 
 #  ᴄᴏ ᴘᴏᴡᴇʀᴇᴅ ʙʏ `Aadhi...?`
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Hehhermitmd%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20Dark%20prince)
-<p align="center">
 
 ## 🌟 `Bot Intro and Features`
 [![XLICON](https://files.catbox.moe/7hertd.jpeg)](https://youtu.be/WcA7GZuaN0A)
