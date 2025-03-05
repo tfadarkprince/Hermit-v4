@@ -10,6 +10,7 @@ heemit-md - Simple whatsapp Multi Device whatsapp bot.
 
 #  ᴄᴏ ᴘᴏᴡᴇʀᴇᴅ ʙʏ `Aadhi...?`
 
+<br>
 
 ## 🌟 `Bot Intro and Features`
 [![XLICON](https://files.catbox.moe/7hertd.jpeg)](https://youtu.be/WcA7GZuaN0A)
@@ -102,3 +103,42 @@ For help visit [Github wiki](https://github.com/tfadarkprince/Hermit-v4/wiki)
 <a aria-label="Join our chats" href="https://wa.me/918136880986?text=Hi!! aadhiser, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
+
+- **Buy Me a Coffee:** `Your support will help me stay motivated and continue working on exciting projects like this one.`
+
+<a href="https://www.buymeacoffee.com/ahmmikun">
+<img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
+</a>
+
+## 🔒 `Reminder`
+Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
+
+## 🙌 `Bot Developers and Contributors`
+| [![Aadhiser](https://files.catbox.moe/68ytx4.jpeg)  |
+
+| -------------------------------------------------- | -----------------------------------------------------------      | ---------------------------------------------------- |
+|            **Dark prince**<br>`Contributor`|
+
+
+
+
+## `Reminder`
+   
+## 
+- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
+- I am not responsible for banning your account.
+- Use at your own risk by keeping this warning in mind.
+
+## `NOTICE`
+   
+## 
+- Not For Sale
+- Don't Forget to Give Credits If you are using or Reuploading My Plugins/files
+- Have A Good Day Ahead
+- Bot is for educational purpose and for learning not for spamming thank you
+- Don't Use This Script As Your Bot Base 
+---
+
+ <br><br>
+
+
