@@ -3,6 +3,16 @@ Quenn-Ziyav - Simple whatsapp Multi Device whatsapp bot.
 
 ***
 
+# `NOTE : 🌿_nallathu cheythal nallathu labhikkum...bhagavane eeshwara🥲💐
+
+
+<br>
+
+#  ᴄᴏ ᴘᴏᴡᴇʀᴇᴅ ʙʏ `Aadhi...?`
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20;Hermit-v4%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20Dark%20prince)
+<p align="center">
+
 ### SETUP
 1. [![Fork](https://img.shields.io/github/forks/tfadarkprince/Quenn-Ziyav?style=social)](https://github.com/tfadarkprince/Hermit-v4/fork)
 2. Scan the QR or pair and copy it
@@ -84,6 +94,10 @@ For help visit [Github wiki](https://github.com/tfadarkprince/Hermit-v4/wiki)
 
 ***
 
-[![Join us on Telegram](https://img.shields.io/badge/Join_Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@luckyserofc)
+  ## ``Support Channel``
+   
+   [![WHATSAPP](https://img.shields.io/badge/Support%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](  https://whatsapp.com/channel/0029VayY2vu1NCrLQHzmRB2Q)
 
-<a href="[https://whatsapp.com/channel/0029Va4OxFAGk1FjrFvTJa1V](https://whatsapp.com/channel/0029VayY2vu1NCrLQHzmRB2Q)"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+<a aria-label="Join our chats" href="https://wa.me/918136880986?text=Hi!! aadhiser, I need Your Help" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
