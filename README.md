@@ -14,7 +14,7 @@ Quenn-Ziyav - Simple whatsapp Multi Device whatsapp bot.
 <p align="center">
 
 ## 🌟 `Bot Intro and Features`
-[![XLICON](https://imagekit.io/tools/asset-public-link/?detail=%7B%22name%22%3A%2220250305_080012.jpg)](https://youtu.be/WcA7GZuaN0A)
+[![XLICON](https://imagekit.io/tools/asset-public-link/)](https://youtu.be/WcA7GZuaN0A)
 
 ### SETUP
 1. [![Fork](https://img.shields.io/github/forks/tfadarkprince/Hermit-v4?style=social)](https://github.com/tfadarkprince/Hermit-v4/fork)
