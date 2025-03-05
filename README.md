@@ -14,7 +14,7 @@ Quenn-Ziyav - Simple whatsapp Multi Device whatsapp bot.
 <p align="center">
 
 ### SETUP
-1. [![Fork](https://img.shields.io/github/forks/tfadarkprince/Quenn-Ziyav?style=social)](https://github.com/tfadarkprince/Hermit-v4/fork)
+1. [![Fork](https://img.shields.io/github/forks/tfadarkprince/Hermit-v4?style=social)](https://github.com/tfadarkprince/Hermit-v4/fork)
 2. Scan the QR or pair and copy it
     <br>
 <a href='https://hermit-md.adithyan.in.net/' target="_blank"><img alt='SESSION' src='https://img.shields.io/badge/SESSION-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
@@ -66,7 +66,7 @@ Quenn-Ziyav - Simple whatsapp Multi Device whatsapp bot.
 2. Installation
    ```
    npm i -global pm2
-   git clone https://github.com/A-d-i-t-h-y-a-n/hermit-bot.git
+   git clone https://github.com/tfadarkprince/Hermit-v4.git
    cd hermit-bot
    npm install
    ```
