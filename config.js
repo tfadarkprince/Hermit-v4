@@ -16,7 +16,7 @@ const DEBUG = convertToBool(process.env.DEBUG, 'true');
 
 module.exports = {
   VERSION: 'v4.4.5',
-  SESSION_ID: process.env.SESSION_ID || '',
+  SESSION_ID: process.env.SESSION_ID || 'HP_2025_MAR_8_5M5ERZ',
   MODE: (process.env.MODE || 'private').toLowerCase(),
   HANDLERS: (process.env.PREFIX || '^[.,!]').trim(),
   SEND_READ: toBool(process.env.READ_COMMAND),
@@ -25,7 +25,7 @@ module.exports = {
   BLOCKCHAT: process.env.BLOCK_CHAT || false,
   LANG: (process.env.LANGUAGE || 'EN').toUpperCase(),
   ALWAYS_ONLINE: toBool(process.env.ALWAYS_ONLINE),
-  BOT_NAME: process.env.BOT_NAME || 'ʜᴇʀᴍɪᴛ',
+  BOT_NAME: process.env.BOT_NAME || '𝐇𝐞𝐫𝐦𝐢𝐭-𝐕𝟒',
   AUTOMUTE_MSG: process.env.AUTOMUTE_MSG || '_Group automuted!_\n_(Change this by setting var AUTOMUTE_MSG)_',
   AUTOUNMUTE_MSG: process.env.AUTOUNMUTE_MSG || '_Group autounmuted!_\n_(Change this by setting var AUTOUNMUTE_MSG)_',
   ANTILINK_MSG: process.env.ANTILINK_MSG || '_Link Not Allowed!_\n_(Change this by setting var ANTILINK_MSG)_',
