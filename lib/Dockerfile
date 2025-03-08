@@ -1,6 +1,6 @@
 FROM quay.io/hermit/hermit-ser:latest
 
-WORKDIR /Quenn-Ziyav
+WORKDIR /Hermit-v4
 COPY package*.json ./
 RUN npm install
 COPY . .
