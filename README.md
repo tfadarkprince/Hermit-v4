@@ -48,22 +48,6 @@ heemit-md - Simple whatsapp Multi Device whatsapp bot.
     <br>
 <a href='https://render.com/deploy?repo=https://github.com/A-d-i-t-h-y-a-n/hermit-bot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 
-#### DEPLOY TO KOYEB 
-
-1. If You don't have a account in koyeb. Create a account.
-    <br>
-<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-
-3. Create [DATABASE_URL](https://app.koyeb.com/database-services/new) and copy it
-
-4. Get [Koyeb API_KEY](https://app.koyeb.com/settings/api)
-
-2. Now Deploy
-    <br>
-<a href='https://hermit-md.adithyan.in.net/koyeb' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-
-#### RUN ON VPS/UBUNTU/WINDOWS
-
 1. Install NodeJs,ffmpeg
 2. Installation
    ```
