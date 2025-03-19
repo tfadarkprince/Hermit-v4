@@ -1,4 +1,4 @@
-FROM node:lts-buster
+FROM quay.io/hermit/hermit-ser:latest
 
 WORKDIR /Hermit-v4
 COPY package*.json ./
