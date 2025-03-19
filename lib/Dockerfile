@@ -1,6 +1,6 @@
-FROM quay.io/hermit/hermit-ser:latest
+FROM node:lts-buster
 
-WORKDIR /hermit-bot
+WORKDIR /Hermit-v4
 COPY package*.json ./
 RUN npm install
 COPY . .
